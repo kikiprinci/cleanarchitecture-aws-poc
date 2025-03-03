@@ -1,0 +1,12 @@
+kikiprinci\cleanarchitecture\poc\aws\infrastructure\mappers\CarInfrastructureMapper.class
+kikiprinci\cleanarchitecture\poc\aws\infrastructure\repositories\CarRepositoryImpl.class
+kikiprinci\cleanarchitecture\poc\aws\presentation\controllers\CarController.class
+kikiprinci\cleanarchitecture\poc\aws\domain\mappers\CarMapper.class
+kikiprinci\cleanarchitecture\poc\aws\application\usecases\CreateCarUseCase.class
+kikiprinci\cleanarchitecture\poc\aws\infrastructure\models\CarDynamoDbModel.class
+kikiprinci\cleanarchitecture\poc\aws\application\mappers\CarMapperImpl.class
+kikiprinci\cleanarchitecture\poc\aws\AwsApplication.class
+kikiprinci\cleanarchitecture\poc\aws\application\dtos\CarDto.class
+kikiprinci\cleanarchitecture\poc\aws\domain\repositories\CarRepository.class
+kikiprinci\cleanarchitecture\poc\aws\infrastructure\config\DynamoDBConfig.class
+kikiprinci\cleanarchitecture\poc\aws\domain\entities\Car.class

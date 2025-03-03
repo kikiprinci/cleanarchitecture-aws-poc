@@ -1,0 +1,12 @@
+C:\Kiko\SourceCode\Java\aws\src\main\java\kikiprinci\cleanarchitecture\poc\aws\application\dtos\CarDto.java
+C:\Kiko\SourceCode\Java\aws\src\main\java\kikiprinci\cleanarchitecture\poc\aws\application\mappers\CarMapperImpl.java
+C:\Kiko\SourceCode\Java\aws\src\main\java\kikiprinci\cleanarchitecture\poc\aws\application\usecases\CreateCarUseCase.java
+C:\Kiko\SourceCode\Java\aws\src\main\java\kikiprinci\cleanarchitecture\poc\aws\AwsApplication.java
+C:\Kiko\SourceCode\Java\aws\src\main\java\kikiprinci\cleanarchitecture\poc\aws\domain\entities\Car.java
+C:\Kiko\SourceCode\Java\aws\src\main\java\kikiprinci\cleanarchitecture\poc\aws\domain\mappers\CarMapper.java
+C:\Kiko\SourceCode\Java\aws\src\main\java\kikiprinci\cleanarchitecture\poc\aws\domain\repositories\CarRepository.java
+C:\Kiko\SourceCode\Java\aws\src\main\java\kikiprinci\cleanarchitecture\poc\aws\infrastructure\config\DynamoDBConfig.java
+C:\Kiko\SourceCode\Java\aws\src\main\java\kikiprinci\cleanarchitecture\poc\aws\infrastructure\mappers\CarInfrastructureMapper.java
+C:\Kiko\SourceCode\Java\aws\src\main\java\kikiprinci\cleanarchitecture\poc\aws\infrastructure\models\CarDynamoDbModel.java
+C:\Kiko\SourceCode\Java\aws\src\main\java\kikiprinci\cleanarchitecture\poc\aws\infrastructure\repositories\CarRepositoryImpl.java
+C:\Kiko\SourceCode\Java\aws\src\main\java\kikiprinci\cleanarchitecture\poc\aws\presentation\controllers\CarController.java
