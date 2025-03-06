@@ -42,8 +42,8 @@ public class CarDynamoDbModel {
         this.licensePlate=licensePlate;
         this.available=available;
         this.manufacterYear=manufacterYear;
-        this.creationDate=creationDate;
         this.creationTimeStamp=creationTimeStamp;
+        this.creationDate=creationDate;
     }
 
     @DynamoDbPartitionKey

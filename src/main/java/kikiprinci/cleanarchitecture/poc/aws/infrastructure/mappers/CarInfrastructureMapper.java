@@ -12,18 +12,33 @@ import kikiprinci.cleanarchitecture.poc.aws.infrastructure.models.CarDynamoDbMod
 public class CarInfrastructureMapper implements CarMapper<CarDynamoDbModel> {
     @Override
     public Car toDomain(CarDynamoDbModel model) {
-        // return new Car(model.getId(), model.getModel(), model.getLicensePlate(), model.isAvailable());
-        return null;
+        return new Car(
+            model.getId(), 
+            model.getBrand(), 
+            model.getModel(), 
+            model.getVersion(), 
+            model.getLicensePlate(), 
+            model.isAvailable(),
+            model.getManufacterAge(),
+            model.getcreationTimeStamp(),
+            model.getcreationDate()
+        );
     }
-
+    
     @Override
     public CarDynamoDbModel fromDomain(Car car) {
-        CarDynamoDbModel model = new CarDynamoDbModel();
-        // model.setId(car.getId());
-        // model.setModel(car.getModel());
-        // model.setLicensePlate(car.getLicensePlate());
-        // model.setAvailable(car.isAvailable());
-        return model;
+        return new CarDynamoDbModel(
+            car.getId(),
+            car.getBrand(),
+            car.getModel(),
+            car.getVersion(),
+            car.getLicensePlate(),
+            car.isAvailable(),
+            car.getManufacterYear(),
+            car.getCreationTimeStamp(),
+            car.getCreationDate()
+        );
+
     }
 
     @Override

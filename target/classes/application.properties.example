@@ -1,0 +1,5 @@
+spring.application.name=aws
+aws.dynamodb.endpoint=
+aws.region=
+aws.accessKey=
+aws.secretKey=

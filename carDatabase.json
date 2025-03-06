@@ -1,0 +1,490 @@
+    [
+        {
+            "brand": "BMW",
+            "model": "X3",
+            "version": "xDrive30i",
+            "licensePlate": "1234ABC",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Leaf",
+            "version": "e+",
+            "licensePlate": "5678BCD",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "i4",
+            "version": "eDrive40",
+            "licensePlate": "9012DEF",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Qashqai",
+            "version": "e-Power",
+            "licensePlate": "3456FGH",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "iX",
+            "version": "xDrive50",
+            "licensePlate": "7890IJK",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Ariya",
+            "version": "Electric",
+            "licensePlate": "2345LMN",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "M3",
+            "version": "Competition",
+            "licensePlate": "6789OPQ",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "X-Trail",
+            "version": "Hybrid",
+            "licensePlate": "0123RST",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "X5",
+            "version": "xDrive45e",
+            "licensePlate": "4567UVW",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Juke",
+            "version": "Hybrid",
+            "licensePlate": "8901XYZ",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "Serie 5",
+            "version": "530e",
+            "licensePlate": "2345ABC",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Micra",
+            "version": "Electric",
+            "licensePlate": "6789BCD",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "X7",
+            "version": "M60i",
+            "licensePlate": "0123DEF",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Z",
+            "version": "Performance",
+            "licensePlate": "4567FGH",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "Serie 7",
+            "version": "i7 xDrive60",
+            "licensePlate": "8901IJK",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Altima",
+            "version": "SR",
+            "licensePlate": "2345LMN",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "X6",
+            "version": "M50i",
+            "licensePlate": "6789OPQ",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Rogue",
+            "version": "SL",
+            "licensePlate": "0123RST",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "Serie 4 Coupé",
+            "version": "M440i",
+            "licensePlate": "4567UVW",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Sentra",
+            "version": "SR",
+            "licensePlate": "8901XYZ",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "M2",
+            "version": "Competition",
+            "licensePlate": "2345ABC",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Maxima",
+            "version": "Platinum",
+            "licensePlate": "6789BCD",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "X4",
+            "version": "M40i",
+            "licensePlate": "0123DEF",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Pathfinder",
+            "version": "Rock Creek",
+            "licensePlate": "4567FGH",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "Z4",
+            "version": "M40i",
+            "licensePlate": "8901IJK",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Frontier",
+            "version": "Pro-4X",
+            "licensePlate": "2345LMN",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "Serie 8 Gran Coupé",
+            "version": "M850i",
+            "licensePlate": "6789OPQ",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Titan",
+            "version": "Platinum Reserve",
+            "licensePlate": "0123RST",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "iX1",
+            "version": "xDrive30",
+            "licensePlate": "4567UVW",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Kicks",
+            "version": "SR",
+            "licensePlate": "8901XYZ",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "X1",
+            "version": "xDrive28i",
+            "licensePlate": "2345ABC",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Versa",
+            "version": "SR",
+            "licensePlate": "6789BCD",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "X2",
+            "version": "M35i",
+            "licensePlate": "0123DEF",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Murano",
+            "version": "Platinum",
+            "licensePlate": "4567FGH",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "i3",
+            "version": "s",
+            "licensePlate": "8901IJK",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Armada",
+            "version": "Platinum",
+            "licensePlate": "2345LMN",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "M8",
+            "version": "Competition",
+            "licensePlate": "6789OPQ",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "GT-R",
+            "version": "NISMO",
+            "licensePlate": "0123RST",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "M4",
+            "version": "Competition",
+            "licensePlate": "4567UVW",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "370Z",
+            "version": "NISMO",
+            "licensePlate": "8901XYZ",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "i7",
+            "version": "xDrive60",
+            "licensePlate": "2345ABC",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Navara",
+            "version": "Pro-4X",
+            "licensePlate": "6789BCD",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "iX3",
+            "version": "Electric",
+            "licensePlate": "0123DEF",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Townstar",
+            "version": "Electric",
+            "licensePlate": "4567FGH",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "M5 CS",
+            "version": "Special Edition",
+            "licensePlate": "8901IJK",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Sakura",
+            "version": "Electric",
+            "licensePlate": "2345LMN",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "XM",
+            "version": "Label Red",
+            "licensePlate": "6789OPQ",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "Nissan",
+            "model": "Note",
+            "version": "e-Power",
+            "licensePlate": "0123RST",
+            "available": true,
+            "manufacterYear": 2025
+        },
+        {
+            "brand": "BMW",
+            "model": "3-Series E36",
+            "version": "325i",
+            "licensePlate": "4567UVW",
+            "available": false,
+            "manufacterYear": 1995
+        },
+        {
+            "brand": "Nissan",
+            "model": "Primera",
+            "version": "2.0 SLX",
+            "licensePlate": "8901XYZ",
+            "available": false,
+            "manufacterYear": 1996
+        },
+        {
+            "brand": "BMW",
+            "model": "5-Series E34",
+            "version": "540i",
+            "licensePlate": "2345ABC",
+            "available": false,
+            "manufacterYear": 1994
+        },
+        {
+            "brand": "Nissan",
+            "model": "Maxima",
+            "version": "QX",
+            "licensePlate": "6789BCD",
+            "available": false,
+            "manufacterYear": 1997
+        },
+        {
+            "brand": "BMW",
+            "model": "7-Series E38",
+            "version": "750iL",
+            "licensePlate": "0123DEF",
+            "available": false,
+            "manufacterYear": 1998
+        },
+        {
+            "brand": "Nissan",
+            "model": "Micra",
+            "version": "K11",
+            "licensePlate": "4567FGH",
+            "available": false,
+            "manufacterYear": 1993
+        },
+        {
+            "brand": "BMW",
+            "model": "8-Series E31",
+            "version": "850CSi",
+            "licensePlate": "8901IJK",
+            "available": false,
+            "manufacterYear": 1992
+        },
+        {
+            "brand": "Nissan",
+            "model": "Skyline GT-R",
+            "version": "R33",
+            "licensePlate": "2345LMN",
+            "available": false,
+            "manufacterYear": 1995
+        },
+        {
+            "brand": "BMW",
+            "model": "Z3",
+            "version": "Roadster",
+            "licensePlate": "6789OPQ",
+            "available": false,
+            "manufacterYear": 1996
+        },
+        {
+            "brand": "Nissan",
+            "model": "300ZX",
+            "version": "Twin Turbo",
+            "licensePlate": "0123RST",
+            "available": false,
+            "manufacterYear": 1990
+        },
+        {
+            "brand": "BMW",
+            "model": "M3 E36",
+            "version": "Coupe",
+            "licensePlate": "4567UVW",
+            "available": false,
+            "manufacterYear": 1995
+        },
+        {
+            "brand": "Nissan",
+            "model": "Silvia",
+            "version": "S14",
+            "licensePlate": "8901XYZ",
+            "available": false,
+            "manufacterYear": 1994
+        },
+        {
+            "brand": "BMW",
+            "model": "E39 M5",
+            "version": "Sedan",
+            "licensePlate": "8901XGZ",
+            "available": false,
+            "manufacterYear": 1994
+        }
+    ]
